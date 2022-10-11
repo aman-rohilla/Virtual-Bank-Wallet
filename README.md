@@ -2,7 +2,7 @@
 
 #### Java, Spring Boot, JDBC, SQL, SQLite, JSON, REST API, JWT, User Authentication
 
-## Overview
+### Overview
 
 <pre>
 Register/Login a user
@@ -11,7 +11,7 @@ Withdraw money from wallet
 See all transactions
 </pre>
 
-## API Endpoints:
+### API Endpoints
 
 <pre>
 <b>POST</b> /register     - Register a user with name, email and password
