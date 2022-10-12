@@ -18,6 +18,6 @@ See all transactions
 <b>POST</b> /login        - Login a user with email and password
 <b>GET</b>  /logout       - Logout a user
 <b>POST</b> /deposit      - Add money to wallet
-<b>POST</b> /withdraw     - Withdraw money to wallet
+<b>POST</b> /withdraw     - Withdraw money from wallet
 <b>GET</b>  /transactions - Get all transactions of a user
 </pre>
